@@ -1,0 +1,28 @@
+.bodyBackground {
+   background-color: rgba(17, 99, 146, 0.991);
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #ac001d;
+    border: 15px;;
+    color: white;
+    padding: 10px 42px;
+    font-size: 30px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
